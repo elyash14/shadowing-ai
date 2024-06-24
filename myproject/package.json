@@ -1,0 +1,15 @@
+{
+  "name": "inertia-django",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.2",
+    "vite": "^5.3.1"
+  }
+}
