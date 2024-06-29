@@ -1,7 +1,7 @@
 import { resolve } from 'path';
 import react from '@vitejs/plugin-react';
 
-module.exports = {
+export default {
   plugins: [
     react({
       include: '**/*.disabled',
